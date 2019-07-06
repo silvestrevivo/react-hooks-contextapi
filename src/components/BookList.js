@@ -20,8 +20,7 @@ export default BookList;
 
 /*
 This is the reference as Class component
-cl
-ass BookList extends Component {
+class BookList extends Component {
   static contextType = ThemeContext;
 
   render() {
